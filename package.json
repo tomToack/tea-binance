@@ -1,6 +1,6 @@
 {
   "name": "@tea/binance",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
